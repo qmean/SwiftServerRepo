@@ -97,8 +97,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <wkWebView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="LCI-Ot-86Y">
-                                <rect key="frame" x="0.0" y="103" width="393" height="749"/>
+                            <wkWebView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="bCJ-sO-hlc">
+                                <rect key="frame" x="0.0" y="103" width="426" height="692"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <wkWebViewConfiguration key="configuration">
@@ -114,7 +114,7 @@
                     <navigationItem key="navigationItem" title="webView" id="c3o-CQ-XWU"/>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
-                        <outlet property="Webview" destination="LCI-Ot-86Y" id="vSe-MS-jHT"/>
+                        <outlet property="Webview" destination="bCJ-sO-hlc" id="Nya-JO-K3j"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="beW-P9-XnK" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

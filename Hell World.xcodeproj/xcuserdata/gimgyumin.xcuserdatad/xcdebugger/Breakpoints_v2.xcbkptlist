@@ -21,7 +21,7 @@
             <Locations>
                <Location
                   uuid = "013406F4-F92F-4AD9-9A84-198879BEF55E - 37e0c7cfc99a4816"
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "Hell_World.urlRequest.trylogin(email: Swift.String, password: Swift.String) -&gt; ()"
